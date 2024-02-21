@@ -1,4 +1,4 @@
-![logo](https://github.com/redwa-n/redwa-n/blob/main/programer-ezgif.com-crop.gif)
+![logo](https://github.com/Shmn2/Shmn2/blob/main/my_cover-ezgif.com-crop.gif)
 <h1 align="center">Hi 👋, I'm Mustakim Ahmed</h1>
 <h3 align="center">Passionate about the tech of tomorrow with an electrifying mindset!</h3>
 
